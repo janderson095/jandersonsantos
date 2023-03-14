@@ -1,0 +1,21 @@
+* {margin: 5px; padding: 20; box-sizing: border-box; }
+
+/* #Css {
+    background-color: rgb(111, 187, 249);
+    background-color: orange;
+    height: 150px;
+    border-radius: 20px;
+} */
+
+
+
+#Css {
+   
+    width: 1170px;
+    margin: 30px;
+    background-color: rgba(141, 128, 243, 0.231);
+    border-radius: 20px;
+    height: 980px;
+   
+    
+}
